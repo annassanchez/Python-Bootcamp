@@ -1,2 +1,2 @@
 # Python-Bootcamp
-Course Files for Complete Python 3 Bootcamp Course on Udemy (forked from @pierian-data)
+Course Files and nortes for Complete Python 3 Bootcamp Course on Udemy (created by @pierian-data)
